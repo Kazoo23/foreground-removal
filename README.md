@@ -1,4 +1,7 @@
 A computer vision project I worked on at UB, the projects goal is to take in images and to use them to remove the foreground.
+The program extracts the key points from each image then extracts features from each key point.
+The program then matches features to determine overlap, then a homography is computed between overlapping pairs using RANSAC to optimize the results.
+The images then are transformed and stitched together into a mosaic eliminating the foreground.
 
 # Spring 26 CSE 473/573 Project 2
 

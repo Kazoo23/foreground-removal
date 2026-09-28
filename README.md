@@ -1,4 +1,4 @@
-A computer vision project I worked on at UB, the projects goal is to take in two images and to use both of them to remove the foreground.
+A computer vision project I worked on at UB, the projects goal is to take in images and to use them to remove the foreground.
 
 # Spring 26 CSE 473/573 Project 2
 

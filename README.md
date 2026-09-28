@@ -1,7 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AiU9r98G)
-# Spring 26 CSE 473/573 Project 2
+A computer vision project I worked on at UB, the projects goal is to take in two images and to use both of them to remove the foreground.
 
-## TODO: Fill the blank with your UBIT name
+# Spring 26 CSE 473/573 Project 2
 
 Please update this README.md to fill the blank below before submiting to UB Learn!
 

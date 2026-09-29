@@ -3,6 +3,8 @@ The program extracts the key points from each image then extracts features from 
 The program then matches features to determine overlap, then a homography is computed between overlapping pairs using RANSAC to optimize the results.
 The images then are transformed and stitched together into a mosaic eliminating the foreground.
 
+The second part of the file creates a panorama of images taken in, it does this by extracting all features from each image then finding the best anchor image then stitches every other image to the anchor using the first part of the project.
+
 # Spring 26 CSE 473/573 Project 2
 
 Please update this README.md to fill the blank below before submiting to UB Learn!
